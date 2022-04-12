@@ -1,2 +1,2 @@
 # demo_pageobject
-yes only demo
+yes only demo2
